@@ -1,4 +1,3 @@
-import { HiArrowTopRightOnSquare } from "react-icons/hi2";
 import { OptimizedImage } from "./OptimizedImage";
 import { useScrollAnimation } from "../hooks/useOptimizedAnimations";
 
