@@ -5,7 +5,7 @@ export function Services() {
     {
       title: "Senior Back-End Developer",
       company: "Keap",
-      period: "September 2023 - August 2024",
+      period: "September 2023 - August 2025",
       description:"Leading backend development for Keap's CRM and automation platform.Architected microservice-base system's using Noe.js and PostgreSQL to improve scalability and reliability.Spear headed API performance optimization an data pipeline automation, enhancing system throughput and uptime. Contributed to transitioning legacy systems into a modern, containerized environment with CI/CD integration.",
       icon: <HiCodeBracket className="h-12 w-12" />,
       technologies: ["Python", "Django", "FastAPI", "RabbitMQ", "Celery", "Docker", "PostgreSQL", "TDD", "Microservice"],
