@@ -27,7 +27,7 @@ export function About() {
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
             Combining{' '}
             <span className="font-semibold text-indigo-400 whitespace-nowrap">
-              6 years of experience
+              14 years of experience
             </span>{' '}
             robust backend systems that are secure.
           </p>
