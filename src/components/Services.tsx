@@ -20,13 +20,41 @@ export function Services() {
       technologies: ["ERP", "Advanced Excel", "VBA", "Process Management", "Automation", "Reports"],
     },
     {
-      title: "Junior Backend Developer",
+      title: "Software Engineer",
       company: "Microchip Technology",
       period: "January 2020 - December 2024",
       description:
         "Focused on developing and maintaining backend logic for embedded and IoT-based systems. Worked closely with firmware engineers to optimize data handling, API integration, and real-time communication between microcontrollers and cloud services. Gained a solid understanding of hardware-software interoperability and system-level data efficiency.",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: ["Scrum", "Kanban", "TDD", "Pytest", "CI/CD", "Git Flow", "DevOps", "GitHub Actions"],
+    },
+    {
+      title: "Lead Backend Engineer",
+      company: "American Express",
+      period: "January 2017 - December 2019",
+      description:
+        "Led backend development for financial transaction and customer-service platforms.Built large-scale data pipelines enabling real-time fraud monitoring and analytics.Modernized system components by introducing cloud-ready, modular backend architecture. Mentored junior engineers and guided agile development practices within the backend team.",
+      icon: <HiCommandLine className="h-12 w-12" />,
+      technologies: [],
+    },
+    {
+      title: "Senior Backend Engineer",
+      company: "Axon",
+      period: "January 2014 - December 2016",
+      description:
+        "Developed backend systems supporting Axon's public-safety software ecosystem.Designed microservice-based APIs for data processing, media storage, and device integration.Improved backend scalability and reduced service errors through performance tuning.Implemented automated testing pipelines, increasing release stability.",
+      icon: <HiCommandLine className="h-12 w-12" />,
+      technologies: [],
+    },
+
+    {
+      title: "Backend Developer",
+      company: "Carvana",
+      period: "January 2011 - December 2013",
+      description:
+        "Built and maintained backend services for Carvana’s online car retail platform.Developed REST APIs for inventory, pricing, and customer operations, improving reliability.Optimized SQL queries and backend workflows, reducing response time across key endpoints.Collaborated with frontend and data teams to enhance platform performance.",
+      icon: <HiCommandLine className="h-12 w-12" />,
+      technologies: [],
     },
   ];
 
