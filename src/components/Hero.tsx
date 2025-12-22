@@ -58,7 +58,7 @@ export function Hero() {
               Developer{' '}
               focused on microservices architectures and Node Express.{' '}
               <span className="text-violet-400 font-semibold animate-glow-pulse whitespace-nowrap">
-                6 years of experience
+                14 years of experience
               </span>{' '}
               robust backend systems that are secure. 
             </p>
