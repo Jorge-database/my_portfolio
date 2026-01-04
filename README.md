@@ -2,8 +2,6 @@
 
 **Thiago Figueiredo Povoa** | Desenvolvedor Back-End Python
 
-[![Portfolio Online](https://img.shields.io/badge/Ver%20Online-Portfolio-brightgreen?style=for-the-badge)](https://my-portfolio-web-devpovoa.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-devpovoa-181717?style=for-the-badge&logo=github)](https://github.com/devpovoa)
 
 ---
 
@@ -91,7 +89,6 @@ stack = {
 
 **Email:** jbchime2025@gmail.com  
 **WhatsApp:** +1 (239) 849 0415  
-**LinkedIn:** [thiago-povoa-dev](https://www.linkedin.com/in/jorge-barney-1b4783398/)
 
 ---
 
