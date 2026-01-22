@@ -86,7 +86,7 @@ export function Hero() {
                 <HiArrowRight className="h-4 w-4 group-hover:translate-x-2 transition-transform duration-300" />
               </a>
               <a
-                href="https://drive.google.com/file/d/12CD3QAbLPlqI2-Y5ohzCNQKinaJU6YEb/view?usp=sharing"
+                href="https://drive.google.com/file/d/1dR1V3uaSXdNn-cEEEgCGbJ4d9TUf0EH_/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 border border-white/20 px-8 py-4 rounded-full text-white font-semibold transition-all duration-300 hover-scale hover-glow"
