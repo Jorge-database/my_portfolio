@@ -113,7 +113,7 @@ export function Projects() {
       title: "Delivery and dispatch system",
       description:
         "I built a complete blog using Python and Django, following best practices with Class-Based Views and a modular MVT structure. The system includes RESTful APIs for posts, comments, categories, and admin functionality, making it easy to integrate with front-end apps, mobile clients, or third-party services. ",
-      image: "https://drive.google.com/file/d/1713lqZ7UBETh3ozL5fB9RuLK7aWl9vwL/view?usp=sharing",
+      image: "/public/image/delivery.png",
       link: "https://github.com/devpovoa/Blog",
       colSpan: "col-span-1 md:col-span-2",
       technologies: ["Python", "Django", "API", "Node.js", "PostgreSQL", "Bootstrap", "Comment System"],
