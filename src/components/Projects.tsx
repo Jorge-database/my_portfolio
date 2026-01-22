@@ -74,7 +74,7 @@ function ProjectCard({ project, index }: ProjectCardProps) {
 export function Projects() {
   const projects = [
     {
-      title: "Intelligent Email Classifier",
+      title: "Intelligent Email Classifier(TECH)",
       description:
         "Web application in FastAPI with a modern interface (Jinja2, Tailwind, Alpine.js), NLP (spaCy/NLTK) and integration with OpenAI API (GPT). Containerized with Docker, CI/CD via GitHub Actions and scalable architecture for automatic email classification.",
       image: "https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg",
