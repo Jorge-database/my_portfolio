@@ -34,7 +34,7 @@ export function Contact() {
     {
       name: "WhatsApp",
       description: "+1 (239) 849 0415",
-      link: "https://wa.me/5521990825235?text=Olá,%20gostaria%20de%20conversar%20com%20você.",
+      link: "https://wa.me/12398490415?text=Olá,%20gostaria%20de%20conversar%20com%20você.",
       icon: <FaWhatsapp className="h-10 w-10" />,
     },
     {
@@ -83,7 +83,7 @@ export function Contact() {
           <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
             Interested in discussing{' '}
             <span className="font-semibold text-indigo-400">
-              Back - end development opportunities
+              Software development opportunities
             </span>{' '}
             or innovative projects? Contact us through the channels below. Let's go!{' '}
             <span className="inline-block px-2 py-1 bg-gradient-to-r from-indigo-500/20 to-violet-500/20 border border-indigo-400/30 rounded-md font-bold text-indigo-300 whitespace-nowrap">
@@ -160,12 +160,12 @@ export function Contact() {
                     </button>
                     {error && (
                       <p className="mt-4 text-red-400 text-sm">
-                        Erro ao enviar mensagem, tente novamente more tarde.
+                        S
                       </p>
                     )}
                     {sucess && (
                       <p className="mt-4 text-green-400 text-sm">
-                        Mensagem enviada com sucesso! Retornarei em breve.
+                        Your message has been successfully sent! We will get back to you shortly.
                       </p>
                     )}
                   </div>
