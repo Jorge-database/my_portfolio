@@ -3,42 +3,42 @@ import { HiCommandLine, HiChartBarSquare, HiCodeBracket } from "react-icons/hi2"
 export function Services() {
   const experience = [
     {
-      title: "Senior Back-End Developer",
+      title: "Senior Software Engineer",
       company: "Keap",
-      period: "September 2023 - August 2025",
-      description:"Leading backend development for Keap's CRM and automation platform.Architected microservice-base system's using Noe.js and PostgreSQL to improve scalability and reliability.Spear headed API performance optimization an data pipeline automation, enhancing system throughput and uptime. Contributed to transitioning legacy systems into a modern, containerized environment with CI/CD integration.",
+      period: "August 2023 - August 2025",
+      description:"Owned the transition of core legacy services into a modern event-driven architecture using AWS, significantly improving system decoupling and reliability. Designed and maintained high-traffic REST APIs that powered CRM automation for thousands of small businesses. Optimized complex SQL queries and database schemas to handle rapid data growth while cutting down on latency.",
       icon: <HiCodeBracket className="h-12 w-12" />,
       technologies: ["Python", "Django", "FastAPI", "RabbitMQ", "Celery", "Docker", "PostgreSQL", "TDD", "Microservice"],
     },
     {
-      title: "Backend Developer",
+      title: "Senior Software Engineer",
       company: "MST Solutions",
-      period: "January 2022 - August 2023",
+      period: "March 2022 - May 2023",
       description:
-        "Designed and implemented RESTful and GraphQL APIs for enterprise-level Salesforce integrations. Focused on data modeling, process automation, and secure data synchronization between distributed systems. Collaborated with frontend teams to ensure high-performance backend architecture and maintainable service layers.",
+        "Architected and delivered custom microservices solutions for enterprise clients, focusing on scalability and seamless AWS deployments. Implemented GraphQL layers to unify data from multiple backend sources, making it much easier for front-end teams to consume complex datasets. Led technical discovery sessions with stakeholders to translate business needs into robust technical designs.",
       icon: <HiChartBarSquare className="h-12 w-12" />,
       technologies: ["ERP", "Advanced Excel", "VBA", "Process Management", "Automation", "Reports"],
     },
     {
-      title: "Software Engineer",
+      title: "Senior Software Engineer",
       company: "Microchip Technology",
-      period: "January 2020 - December 2024",
+      period: "January 2020 - November 2021",
       description:
-        "Focused on developing and maintaining backend logic for embedded and IoT-based systems. Worked closely with firmware engineers to optimize data handling, API integration, and real-time communication between microcontrollers and cloud services. Gained a solid understanding of hardware-software interoperability and system-level data efficiency.",
+        "Built out scalable cloud-native services on AWS to support global manufacturing and supply chain operations. Streamlined internal workflows by designing and implementing developer-friendly RESTful services and automated CI/CD pipelines. Managed large-scale NoSQL databases, ensuring high availability and data integrity across distributed systems.",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: ["Scrum", "Kanban", "TDD", "Pytest", "CI/CD", "Git Flow", "DevOps", "GitHub Actions"],
     },
     {
-      title: "Lead Backend Engineer",
+      title: "Software Engineer",
       company: "American Express",
-      period: "January 2017 - December 2019",
+      period: "January 2017 - October 2019",
       description:
-        "Led backend development for financial transaction and customer-service platforms.Built large-scale data pipelines enabling real-time fraud monitoring and analytics.Modernized system components by introducing cloud-ready, modular backend architecture. Mentored junior engineers and guided agile development practices within the backend team.",
+        "Developed secure, high-performance financial services within a Microservices environment, adhering to strict fintech compliance standards. Migrated mission-critical legacy modules to an Event-Driven model, reducing processing times for real-time transaction data. Collaborated closely with cross-functional teams to integrate complex GraphQL APIs for improved mobile and web experiences.",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: [],
     },
     {
-      title: "Senior Backend Engineer",
+      title: "Software Engineer",
       company: "Axon",
       period: "January 2014 - December 2016",
       description:
@@ -48,11 +48,11 @@ export function Services() {
     },
 
     {
-      title: "Backend Developer",
+      title: "Software Engineer",
       company: "Carvana",
-      period: "January 2011 - December 2013",
+      period: "January 2011 - August 2013",
       description:
-        "Built and maintained backend services for Carvana’s online car retail platform.Developed REST APIs for inventory, pricing, and customer operations, improving reliability.Optimized SQL queries and backend workflows, reducing response time across key endpoints.Collaborated with frontend and data teams to enhance platform performance.",
+        "Part of the early engineering team that built out the core e-commerce engine, focusing on scalable REST services for vehicle transactions. Designed relational database schemas from the ground up to support a rapidly expanding inventory and customer base. Helped establish initial engineering best practices and assisted in the early-stage adoption of cloud infrastructure.",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: [],
     },
