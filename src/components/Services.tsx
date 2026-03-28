@@ -6,7 +6,7 @@ export function Services() {
       title: "Senior Software Engineer",
       company: "Keap",
       period: "August 2023 - August 2025",
-      description:"Owned the transition of core legacy services into a modern event-driven architecture using AWS, significantly improving system decoupling and reliability. Designed and maintained high-traffic REST APIs that powered CRM automation for thousands of small businesses. Optimized complex SQL queries and database schemas to handle rapid data growth while cutting down on latency.",
+      description:"Owned the transition of core legacy services into a modern event-driven architecture using AWS, significantly improving system decoupling and reliability. Designed and maintained high-traffic REST APIs that powered CRM automation for thousands of small businesses. Optimized complex SQL queries and database schemas to handle rapid data growth while cutting down on latency",
       icon: <HiCodeBracket className="h-12 w-12" />,
       technologies: ["Python", "Django", "FastAPI", "RabbitMQ", "Celery", "Docker", "PostgreSQL", "TDD", "Microservice"],
     },
@@ -15,7 +15,7 @@ export function Services() {
       company: "MST Solutions",
       period: "March 2022 - May 2023",
       description:
-        "Architected and delivered custom microservices solutions for enterprise clients, focusing on scalability and seamless AWS deployments. Implemented GraphQL layers to unify data from multiple backend sources, making it much easier for front-end teams to consume complex datasets. Led technical discovery sessions with stakeholders to translate business needs into robust technical designs.",
+        "Architected and delivered custom microservices solutions for enterprise clients, focusing on scalability and seamless AWS deployments. Implemented GraphQL layers to unify data from multiple backend sources, making it much easier for front-end teams to consume complex datasets. Led technical discovery sessions with stakeholders to translate business needs into robust technical designs",
       icon: <HiChartBarSquare className="h-12 w-12" />,
       technologies: ["ERP", "Advanced Excel", "VBA", "Process Management", "Automation", "Reports"],
     },
@@ -24,7 +24,7 @@ export function Services() {
       company: "Microchip Technology",
       period: "January 2020 - November 2021",
       description:
-        "Built out scalable cloud-native services on AWS to support global manufacturing and supply chain operations. Streamlined internal workflows by designing and implementing developer-friendly RESTful services and automated CI/CD pipelines. Managed large-scale NoSQL databases, ensuring high availability and data integrity across distributed systems.",
+        "Built out scalable cloud-native services on AWS to support global manufacturing and supply chain operations. Streamlined internal workflows by designing and implementing developer-friendly RESTful services and automated CI/CD pipelines. Managed large-scale NoSQL databases, ensuring high availability and data integrity across distributed systems",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: ["Scrum", "Kanban", "TDD", "Pytest", "CI/CD", "Git Flow", "DevOps", "GitHub Actions"],
     },
@@ -42,7 +42,7 @@ export function Services() {
       company: "Axon",
       period: "January 2014 - December 2016",
       description:
-        "Developed backend systems supporting Axon's public-safety software ecosystem.Designed microservice-based APIs for data processing, media storage, and device integration.Improved backend scalability and reduced service errors through performance tuning.Implemented automated testing pipelines, increasing release stability.",
+        "Developed backend systems supporting Axon's public-safety software ecosystem.Designed microservice-based APIs for data processing, media storage, and device integration.Improved backend scalability and reduced service errors through performance tuning.Implemented automated testing pipelines, increasing release stability",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: [],
     },
@@ -52,7 +52,7 @@ export function Services() {
       company: "Carvana",
       period: "January 2011 - August 2013",
       description:
-        "Part of the early engineering team that built out the core e-commerce engine, focusing on scalable REST services for vehicle transactions. Designed relational database schemas from the ground up to support a rapidly expanding inventory and customer base. Helped establish initial engineering best practices and assisted in the early-stage adoption of cloud infrastructure.",
+        "Part of the early engineering team that built out the core e-commerce engine, focusing on scalable REST services for vehicle transactions. Designed relational database schemas from the ground up to support a rapidly expanding inventory and customer base. Helped establish initial engineering best practices and assisted in the early-stage adoption of cloud infrastructure",
       icon: <HiCommandLine className="h-12 w-12" />,
       technologies: [],
     },
@@ -88,7 +88,7 @@ export function Services() {
             </span>,{' '}
             robust original projects and{' '}
             <span className="inline-block px-2 py-1 bg-gradient-to-r from-indigo-500/20 to-violet-500/20 border border-indigo-400/30 rounded-md font-bold text-indigo-300 whitespace-nowrap">
-              5 years of analytical experience
+              +14 years of analytical experience
             </span>{' '}
             in the financial sector.
           </p>
