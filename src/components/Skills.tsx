@@ -6,15 +6,8 @@ export function Skills() {
       name: "Arizona State University",
       institution: "Bachelor of Computer Science",
       status: "Completed",
-      startDate: "2016",
-      endDate: "2020",
-    },
-    {
-      name: "Chandler Gilbert Community College",
-      institution: "Associate of Science",
-      status: "Completed",
-      startDate: "2014",
-      endDate: "2016",
+      startDate: "2006",
+      endDate: "2010",
     },
   ];
 
