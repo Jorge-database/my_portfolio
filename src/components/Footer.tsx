@@ -43,10 +43,9 @@ export function Footer() {
               <span className="bg-gradient-to-r from-indigo-400 via-violet-400 to-blue-400 bg-clip-text text-transparent">
                 Jorge Barney
               </span>
-              <span className="text-white"> Povoa</span>
             </h3>
             <p className="text-gray-400 text-lg mb-4">
-              Desenvolvedor Back-End Python | Microservices & REST APIs
+              Software Engineer | Microservices & Event-Driven & REST API & GraphQL & Databases & AWS
             </p>
             <div className="flex flex-wrap gap-2">
               {['Python', 'Django', 'FastAPI', 'Docker', 'PostgreSQL'].map((tech) => (
@@ -91,7 +90,7 @@ export function Footer() {
           </p>
           <p className="text-gray-500 text-xs text-center mt-2">
             <span className="text-green-400 font-semibold">
-              available for Back-end Python opportunities
+              available for Software opportunities
             </span>
           </p>
         </div>
