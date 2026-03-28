@@ -146,7 +146,7 @@ export function Projects() {
           <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
             Complete solutions developed since{' '}
             <span className="inline-block px-2 py-1 bg-gradient-to-r from-indigo-500/20 to-violet-500/20 border border-indigo-400/30 rounded-md font-bold text-indigo-300 whitespace-nowrap">
-              2020
+              2010
             </span>,{' '}
             demonstrating expertise in{' '}
             <span className="font-semibold text-indigo-400 whitespace-nowrap">
