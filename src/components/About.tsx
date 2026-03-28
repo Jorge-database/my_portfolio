@@ -105,7 +105,7 @@ export function About() {
                 <p className="text-gray-300">
                   My trajectory leverages{' '}
                   <span className="inline-block px-2 py-1 bg-gradient-to-r from-indigo-500/20 to-violet-500/20 border border-indigo-400/30 rounded-md font-bold text-indigo-300 whitespace-nowrap">
-                    5 years of experience
+                    +14 years of experience
                   </span>{' '}
                  bridging complex financial analysis with high-scale technical execution.
                 </p>
