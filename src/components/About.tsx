@@ -18,10 +18,10 @@ export function About() {
           </div>
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
             <span className="bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent block">
-              Developer
+              Software
             </span>
             <span className="bg-gradient-to-r from-indigo-400 via-violet-400 to-blue-400 bg-clip-text text-transparent block">
-              Back-End
+              Engineer
             </span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
@@ -53,7 +53,7 @@ export function About() {
                   <h3 className="text-xl sm:text-2xl font-bold text-white break-words">
                     <span className="block sm:inline">Jorge Barney</span>
                   </h3>
-                  <p className="text-indigo-400 font-semibold text-lg">Backend Developer</p>
+                  <p className="text-indigo-400 font-semibold text-lg">Senior Software Engineer</p>
                   <p className="text-gray-400 flex items-center gap-2 flex-wrap">
                     <span className="w-2 h-2 bg-indigo-400 rounded-full flex-shrink-0"></span>
                     <span className="whitespace-nowrap">Chandler, AZ</span>
@@ -68,7 +68,7 @@ export function About() {
                     <span className="text-white text-sm font-bold">N</span>
                   </div>
                   <div>
-                    <p className="font-medium text-gray-300">Phone Number</p>
+                    <p className="font-medium text-gray-300">Whatsapp Number</p>
                     <a href="https://api.whatsapp.com/send?phone=12398490415" target="_blank" className="text-green-400 hover:text-green-300 transition-colors">
                       +1 (239) 849 0415
                     </a>
@@ -98,23 +98,23 @@ export function About() {
               <div className="space-y-4 text-lg leading-relaxed">
                 <p className="text-gray-300">
                   <span className="font-semibold text-indigo-400 whitespace-nowrap">
-                    Backend Developer
+                    Senior Backend Engineer
                   </span>{' '}
-                  in Python, Django, FastAPI, with a degree in Computer Science from Arizona State University (2020).
+                  specializing in Python, Django, and FastAPI, with a Computer Science degree from Arizona State University.
                 </p>
                 <p className="text-gray-300">
-                  My unique trajectory combines{' '}
+                  My trajectory leverages{' '}
                   <span className="inline-block px-2 py-1 bg-gradient-to-r from-indigo-500/20 to-violet-500/20 border border-indigo-400/30 rounded-md font-bold text-indigo-300 whitespace-nowrap">
                     5 years of experience
                   </span>{' '}
-                  In analysis and processes in the financial area with solid original projects since September 2020.
+                 bridging complex financial analysis with high-scale technical execution.
                 </p>
                 <p className="text-gray-300">
                   Focused on{' '}
                   <span className="font-semibold text-violet-400 whitespace-nowrap">
-                    microservices architectures
+                    architecting microservices
                   </span>,{' '}
-                  asynchronous messaging, and containerization, applying analytical insights to create scalable and efficient solutions.
+                  asynchronous messaging, and containerization to deliver resilient, scalable, and high-performance backend solutions.
                 </p>
               </div>
             </div>
@@ -124,7 +124,7 @@ export function About() {
               <div className="group relative">
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-indigo-500 to-blue-500 rounded-xl blur opacity-20 group-hover:opacity-40 transition duration-300"></div>
                 <div className="relative bg-gray-800/90 backdrop-blur-sm border border-gray-700/50 p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
-                  <div className="text-3xl font-bold text-indigo-400 mb-2">5+</div>
+                  <div className="text-3xl font-bold text-indigo-400 mb-2">14+</div>
                   <div className="font-semibold text-gray-300">Years</div>
                   <div className="text-sm text-gray-400">Analytical Experience</div>
                 </div>
@@ -133,7 +133,7 @@ export function About() {
               <div className="group relative">
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-violet-500 to-indigo-500 rounded-xl blur opacity-20 group-hover:opacity-40 transition duration-300"></div>
                 <div className="relative bg-gray-800/90 backdrop-blur-sm border border-gray-700/50 p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
-                  <div className="text-3xl font-bold text-violet-400 mb-2">10+</div>
+                  <div className="text-3xl font-bold text-violet-400 mb-2">30+</div>
                   <div className="font-semibold text-gray-300">Projects</div>
                   <div className="text-sm text-gray-400">Complete Authorial Works</div>
                 </div>
@@ -142,7 +142,7 @@ export function About() {
               <div className="group relative">
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-xl blur opacity-20 group-hover:opacity-40 transition duration-300"></div>
                 <div className="relative bg-gray-800/90 backdrop-blur-sm border border-gray-700/50 p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
-                  <div className="text-3xl font-bold text-blue-400 mb-2">2020</div>
+                  <div className="text-3xl font-bold text-blue-400 mb-2">2010</div>
                   <div className="font-semibold text-gray-300">Training</div>
                   <div className="text-sm text-gray-400">Computer Science</div>
                 </div>
@@ -152,7 +152,7 @@ export function About() {
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-indigo-500 to-violet-500 rounded-xl blur opacity-20 group-hover:opacity-40 transition duration-300"></div>
                 <div className="relative bg-gray-800/90 backdrop-blur-sm border border-gray-700/50 p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
                   <div className="text-3xl font-bold text-indigo-400 mb-2">90%</div>
-                  <div className="font-semibold text-gray-300">Node.js & Python</div>
+                  <div className="font-semibold text-gray-300">Software development</div>
                   <div className="text-sm text-gray-400">Proficiency Level</div>
                 </div>
               </div>
