@@ -42,7 +42,7 @@ export function Hero() {
             <div className="flex items-center gap-4 animate-scale-in stagger-6">
               <div className="flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-violet-600 px-4 py-2 rounded-full hover-glow animate-glow-pulse">
                 <HiCodeBracket className="h-4 w-4 text-white animate-bounce-in stagger-7" />
-                <span className="text-white text-xs sm:text-sm font-medium whitespace-nowrap">Back-End Developer</span>
+                <span className="text-white text-xs sm:text-sm font-medium whitespace-nowrap">Senior Software Engineer</span>
               </div>
               <div className="hidden md:flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-2 rounded-full hover-scale">
                 <HiCpuChip className="h-4 w-4 text-indigo-400 animate-bounce-in stagger-8" />
@@ -53,19 +53,19 @@ export function Hero() {
             {/* Description */}
             <p className="text-lg sm:text-xl text-gray-300 leading-relaxed max-w-2xl animate-slide-up delay-700">
               <span className="text-indigo-400 font-semibold animate-glow-pulse whitespace-nowrap">
-                Node.js, Python and FastAPI
+                Senior Software Engineer with 14 years 
               </span>,{' '}
-              Developer{' '}
-              focused on microservices architectures and Node Express.{' '}
+              of experience{' '}
+              architecting secure, robust backend systems.{' '}
               <span className="text-violet-400 font-semibold animate-glow-pulse whitespace-nowrap">
-                14 years of experience
+                Specialized in microservices and scalable architectures
               </span>{' '}
-              robust backend systems that are secure. 
+              using Node.js (Express) and Python (FastAPI). 
             </p>
             
             {/* Tech Stack Preview */}
             <div className="flex flex-wrap gap-3 animate-slide-up delay-1000">
-              {['Node.js', 'Express', 'FastAPI', 'Python', 'PostreSQL', 'Docker','Redis'].map((tech, index) => (
+              {['Architecture & Distributed systems', 'Cloud & Infrastructure', 'Backend & API Design', 'Database Management', 'Engineering Leadership & Mentrship', 'Performance & Modernization'].map((tech, index) => (
                 <span 
                   key={tech}
                   className={`px-3 py-1 bg-white/5 backdrop-blur-sm border border-white/10 rounded-full text-xs text-gray-300 hover:bg-white/10 hover-scale hover-glow transition-all duration-300 animate-bounce-in stagger-${index + 1}`}
@@ -86,7 +86,7 @@ export function Hero() {
                 <HiArrowRight className="h-4 w-4 group-hover:translate-x-2 transition-transform duration-300" />
               </a>
               <a
-                href="https://drive.google.com/file/d/1dR1V3uaSXdNn-cEEEgCGbJ4d9TUf0EH_/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1tB6O8dHqC2EKCWCGogKFp9nQTp2wxtMk/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 border border-white/20 px-8 py-4 rounded-full text-white font-semibold transition-all duration-300 hover-scale hover-glow"
@@ -114,7 +114,7 @@ export function Hero() {
                     <HiCodeBracket className="h-12 w-12 text-white animate-bounce-in delay-1400" />
                   </div>
                   <div className="space-y-1 animate-slide-up delay-1600">
-                    <p className="text-white font-semibold">Back-End</p>
+                    <p className="text-white font-semibold">Software</p>
                     <p className="text-indigo-400 text-sm">Development</p>
                   </div>
                 </div>
